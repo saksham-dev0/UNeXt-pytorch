@@ -1,6 +1,6 @@
 # UNeXt
 
-Official Pytorch Code base for UNeXt: MLP-based Rapid Medical Image Segmentation Network, MICCAI 2022
+Official Pytorch Code base for UNeXt: MLP-based Rapid Medical Image Segmentation Network
 
 ## Introduction
 
@@ -89,10 +89,10 @@ This code-base uses certain code-blocks and helper functions from [UNet++](https
 
 ### Citation:
 ```
-@article{valanarasu2022unext,
+@article{IEEE,
   title={UNeXt: MLP-based Rapid Medical Image Segmentation Network},
   author={Dr. Mano Paul, Saksham Sharma},
-  journal={arXiv preprint arXiv:2203.04967},
+  journal={Procedia Computer Science},
   year={2023}
 }
 ```
